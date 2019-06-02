@@ -4,7 +4,7 @@
 
 |||||
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| ![안뇽~](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%95%88%EB%87%BD~.png) | ![굿잡](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EA%B5%BF%EC%9E%A1.png) | ![두고보자구](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EB%A7%A1%EA%B2%A8%EC%A4%98!.png) | ![맡겨줘~](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EB%A7%A1%EA%B2%A8%EC%A4%98!.png) |
+| ![안뇽~](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%95%88%EB%87%BD~.png) | ![굿잡](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EA%B5%BF%EC%9E%A1.png) | ![두고보자구](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EB%91%90%EA%B3%A0%EB%B3%B4%EC%9E%90%EA%B5%AC!.png) | ![맡겨줘~](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EB%A7%A1%EA%B2%A8%EC%A4%98!.png) |
 | 안뇽~ | 굿잡 | 두고보자구! | 맡겨줘! |
 | ![신고 했습니다!!](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%8B%A0%EA%B3%A0%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4!!.png) | ![좋은아침~!!](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%A2%8B%EC%9D%80%EC%95%84%EC%B9%A8.png) | ![잘자요오](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%9E%98%EC%9E%90%EC%9A%94%EC%98%A4.png) | ![고마워요](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EA%B3%A0%EB%A7%88%EC%9B%8C%EC%9A%94.png) |
 | 신고 했습니다!! | 좋은아침~!! | 잘자요오 | 고마워요 |
