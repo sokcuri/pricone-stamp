@@ -13,7 +13,7 @@ This repository not affiliated with Cygames and Kakaogames. Personal use only, c
 # 스탬프 종류
 * `full_img`: `320x320`의 높은 해상도의 스탬프 이미지입니다
 * `img`: 비교적 작은 해상도의 크롭된 스탬프 이미지입니다
-
+* 모든 스탬프 이미지 파일은 PNG-8 포맷입니다
 
 # 고해상도 스탬프
 |||||
@@ -30,7 +30,7 @@ This repository not affiliated with Cygames and Kakaogames. Personal use only, c
 | 간다! | 거기다! | 수고했어! | 곤란하네요 |
 | ![냥](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EB%83%A5.png) | ![뒤는 맡길게요](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EB%92%A4%EB%8A%94%EB%A7%A1%EA%B8%B8%EA%B2%8C%EC%9A%94....png) | ![부들부들](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EB%B6%80%EB%93%A4%EB%B6%80%EB%93%A4.png) | ![뿡뿡](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EB%BF%A1%EB%BF%A1.png) |
 | 냥 | 뒤는 맡길게요 | 부들부들 | 뿡뿡 |
-| ![안녕](https://github.com/sokcuri/pricone-stamp/blob/master/full_img/%EC%95%88%EB%85%95.png) | ![어떻게든 될거야~](https://github.com/sokcuri/pricone-stamp/blob/master/full_img/%EC%96%B4%EB%96%BB%EA%B2%8C%EB%93%A0%EB%90%A0%EA%B1%B0%EC%95%BC~.png) | ![우후후](https://github.com/sokcuri/pricone-stamp/blob/master/full_img/%EC%9A%B0%ED%9B%84%ED%9B%84.png) | ![으앗!](https://github.com/sokcuri/pricone-stamp/blob/master/full_img/%EC%9C%BC%EC%95%97!%EC%9C%BC%EC%95%97!.png) |
+| ![안녕](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EC%95%88%EB%85%95.png) | ![어떻게든 될거야~](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EC%96%B4%EB%96%BB%EA%B2%8C%EB%93%A0%EB%90%A0%EA%B1%B0%EC%95%BC~.png) | ![우후후](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EC%9A%B0%ED%9B%84%ED%9B%84.png) | ![으앗!](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EC%9C%BC%EC%95%97!%EC%9C%BC%EC%95%97!.png) |
 | 안녕 | 어떻게든 될거야~ | 우후후 | 으앗! |
 | ![잠깐 기다려!!](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EC%9E%A0%EA%B9%90%EA%B8%B0%EB%8B%A4%EB%A0%A4!!.png) | ![좋아요](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EC%A2%8B%EC%95%84%EC%9A%94.png) | ![참전](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%EC%B0%B8%EC%A0%84.png) | ![하왓](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/full_img/%ED%95%98%EC%99%93.png) |
 | 잠깐 기다려!! | 좋아요 | 참전 | 하왓 |
@@ -51,7 +51,7 @@ This repository not affiliated with Cygames and Kakaogames. Personal use only, c
 | 간다! | 거기다! | 건배! | 곤란하네요 |
 | ![냥](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EB%83%A5.png) | ![뒤는 맡길게요](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EB%92%A4%EB%8A%94%EB%A7%A1%EA%B8%B8%EA%B2%8C%EC%9A%94....png) | ![부들부들](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EB%B6%80%EB%93%A4%EB%B6%80%EB%93%A4.png) | ![뿡뿡](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EB%BF%A1%EB%BF%A1.png) |
 | 냥 | 뒤는 맡길게요 | 부들부들 | 뿡뿡 |
-| ![안녕하..안녕](https://github.com/sokcuri/pricone-stamp/blob/master/img/%EC%95%88%EB%85%95%ED%95%98..%EC%95%88%EB%85%95.png) | ![어떻게든 될거야~](https://github.com/sokcuri/pricone-stamp/blob/master/img/%EC%96%B4%EB%96%BB%EA%B2%8C%EB%93%A0%EB%90%A0%EA%B1%B0%EC%95%BC~.png) | ![우후후](https://github.com/sokcuri/pricone-stamp/blob/master/img/%EC%9A%B0%ED%9B%84%ED%9B%84.png) | ![으앗!](https://github.com/sokcuri/pricone-stamp/blob/master/img/%EC%9C%BC%EC%95%97!%EC%9C%BC%EC%95%97!.png) |
+| ![안녕하..안녕](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%95%88%EB%85%95%ED%95%98..%EC%95%88%EB%85%95.png) | ![어떻게든 될거야~](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%96%B4%EB%96%BB%EA%B2%8C%EB%93%A0%EB%90%A0%EA%B1%B0%EC%95%BC~.png) | ![우후후](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%9A%B0%ED%9B%84%ED%9B%84.png) | ![으앗!](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%9C%BC%EC%95%97!%EC%9C%BC%EC%95%97!.png) |
 | 안녕하..안녕 | 어떻게든 될거야~ | 우후후 | 으앗! |
 | ![잠깐 기다려!!](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%9E%A0%EA%B9%90%EA%B8%B0%EB%8B%A4%EB%A0%A4!!.png) | ![좋아요](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%A2%8B%EC%95%84%EC%9A%94.png) | ![참전](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%EC%B0%B8%EC%A0%84.png) | ![하왓](https://raw.githubusercontent.com/sokcuri/pricone-stamp/master/img/%ED%95%98%EC%99%93.png) |
 | 잠깐 기다려!! | 좋아요 | 참전 | 하왓 |
